@@ -8,6 +8,7 @@ public class APITest {
 	public void postJira()
 	{
 		System.out.println("Post Jira");
+		System.out.println("This update is for Git.");
 	}
 	@Test
 	public void deleteTwitter()
